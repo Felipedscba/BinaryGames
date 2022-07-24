@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/git
-    - /bin/cp -r (!.git) $DEPLOYPATH
+    - /bin/cp -r !(.git) $DEPLOYPATH

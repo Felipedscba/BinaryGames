@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/git
-    - /bin/cp -r !(.git) $DEPLOYPATH
+    - export DEPLOYPATH=/home1/digi8414/git
+    - /bin/cp * $DEPLOYPATH

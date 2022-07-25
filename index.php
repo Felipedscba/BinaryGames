@@ -10,5 +10,8 @@
 <body>
     <h1>Primeiro teste de git na hospedagem</h1>
     <span>Meu teste final</span>
+    <p>Tag p1</p>
+    <p>Tag p2</p>
+    <script src="main.js"></script>
 </body>
 </html>
